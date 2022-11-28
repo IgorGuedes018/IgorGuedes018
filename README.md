@@ -1,7 +1,7 @@
-### Ola sou Igor 👋
+### Olá sou Igor 👋
 
-- 🔭 UFJF
-- 🌱 I’m currently learning Sistemas de Informacao
+
+- 🔭 Sistemas de Informacao UFJF
 - 📫 How to reach me: guedes.igor018@gmail.com
 
 ##
@@ -12,6 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGuedes018&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+### Skils:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Igor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -21,8 +23,14 @@
   <img align="center" alt="Igor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
 </div>
 
-##
+### learning:
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Igor-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+</div>
 
+ ##
 <div> 
   <a href = "mailto:guedes.igor018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"      target="_blank"></a>
   <a href="https://instagram.com/igor_guedes__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
